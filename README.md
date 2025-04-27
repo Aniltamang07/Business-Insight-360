@@ -64,4 +64,4 @@ This repository contains an in-depth **Sales & Profit Analysis Dashboard** that 
 5. **Geographical Focus:** Strengthen presence in APAC and expand efforts in EU for continued growth.
 
 
-- **Data_source** [maven_analytics](https://app.mavenanalytics.io/datasets?search=churn)
+- **Data_source** [code_basics](https://codebasics.io/)
