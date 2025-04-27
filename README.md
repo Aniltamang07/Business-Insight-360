@@ -1,6 +1,6 @@
 # 📊 Business insight 360 Dashboard
 
-Account information for 10,000 customers at a European bank, including details on their credit score, balance, products, and whether they have churned.
+AtliQ Hardware, a global manufacturer, tasked us with extracting insights from their 1.8 million-entry dataset. Crafted reports and dashboards, enabling data driven decision making across diverse business domains such as Finance, Sales, Marketing, Supply Chain and Executive.
 
 [![Power Bi Dashboard](dashboard.png)](https://app.powerbi.com/groups/me/reports/48a99c9d-29f9-4dfc-b68f-82eb10b2d9da/928eb2351511c005bd18?experience=power-bi)
 ---
