@@ -31,6 +31,8 @@ This repository contains an in-depth **Sales & Profit Analysis Dashboard** that 
 
 ### 🎨 **Visual Insights:**
 - **Line Chart:** Tracks Net Sales performance over time, showcasing consistent growth with a dip towards late 2022.
+
+[![Power Bi Dashboard](dashboard.png)]
 - **Bubble Charts:** Highlight regions like USA and India, which contribute significantly to revenue with high gross margins.
 - **Pie Charts:**
   - Gross Margin contributes ~38% of Net Sales.
