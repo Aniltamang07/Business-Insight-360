@@ -31,11 +31,12 @@ This repository contains an in-depth **Sales & Profit Analysis Dashboard** that 
 
 ### 🎨 **Visual Insights:**
 - **Line Chart:** Tracks Net Sales performance over time, showcasing consistent growth with a dip towards late 2022.
-![Power Bi Dashboard](line.png)
+![Power Bi Dashboard](Line.png)
 - **Bubble Charts:** Highlight regions like USA and India, which contribute significantly to revenue with high gross margins.
 - **Pie Charts:**
   - Gross Margin contributes ~38% of Net Sales.
   - COGS consumes ~62% of Net Sales.
+  - 
    ![Power Bi Dashboard](bar.png)
 - **Bar Graphs:**
   - Largest Profit Impact: High operation expenses (~$1.9K loss).
